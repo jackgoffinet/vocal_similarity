@@ -39,6 +39,6 @@ Their R<sup>2</sup> values give an upper bound on the variance in the experiment
 
 ![alt text][reg3]
 
-[reg1]: https://github.com/jackgoffinet/vocal_similarity/dyad_fits.png "Dyad Regression"
-[reg2]: https://github.com/jackgoffinet/vocal_similarity/triad_fits.png "Triad Regression"
-[reg3]: https://github.com/jackgoffinet/vocal_similarity/tetrad_fits.png "Tetrad Regression"
+[reg1]: https://raw.githubusercontent.com/jackgoffinet/vocal_similarity/master/dyad_fits.png "Dyad Regression"
+[reg2]: https://raw.githubusercontent.com/jackgoffinet/vocal_similarity/master/triad_fits.png "Triad Regression"
+[reg3]: https://raw.githubusercontent.com/jackgoffinet/vocal_similarity/master/tetrad_fits.png "Tetrad Regression"
