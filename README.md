@@ -2,15 +2,16 @@
 
 This repo contains a Python script, `main.py`, that reproduces the quantitative results mentioned in:
 
-> Goffinet, J. (2018). Little Evidence for the Vocal Similarity Hypothesis. Letter submitted for publication.
+> Goffinet, J. (2018). Little Evidence for the Vocal Similarity Hypothesis. *Proceedings of the National Academy of Sciences*, 201804577. <https://doi.org/10.1073/pnas.1804577115>
+See `little_evidence.pdf` for a pdf copy. The letter is a response to:
 
-... a response to:
+> Bowling, D. L., Purves, D., & Gill, K. Z. (2017). Vocal similarity predicts the relative attraction of musical chords. *Proceedings of the National Academy of Sciences*, 201713206. <https://doi.org/10.1073/pnas.1713206115>
 
-> Bowling, D. L., Purves, D., & Gill, K. Z. (2017). Vocal similarity predicts the relative attraction of musical chords. *Proceedings of the National Academy of Sciences*, 201713206.
+... and is itself responded to in:
 
-... which is available [here](https://doi.org/10.1073/pnas.1713206115).
+> Bowling, D. L., Purves, D., & Gill, K. Z. (2018). Reply to Goffinet: In consonance, old ideas die hard. *Proceedings of the National Academy of Sciences*, 201805570. <https://doi.org/10.1073/pnas.1805570115>
 
-It also contains an implementation of the vocal similarity model described in (Bowling et al., 2017).
+This repo also contains an implementation of the vocal similarity model described by Bowling et al. (2017).
 See `vocal_similarity.py`.
 
 ---
